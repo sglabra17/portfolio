@@ -83,7 +83,7 @@
 				</div>
 				<br>
 				<h2 class="about text-white" id="channels">Programming Languages</h2>
-				<p class="text-white">Lorem ipsum dolor sit ame.</p>
+				<p class="text-white">Constantly learning more !</p>
 				<ul class="about nav nav-pills flex-column sticky-top">
 					<?php include "Pages/languages.php"; ?>
 				</ul>
